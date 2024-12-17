@@ -1,0 +1,12 @@
+# Core LangGraph and LangChain dependencies
+langgraph
+langchain
+langchain-groq
+langchain-community
+python-dotenv
+# API and tracing
+langsmith
+streamlit
+# Type hinting and extensions
+typing-extensions
+
